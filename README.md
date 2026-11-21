@@ -1,7 +1,11 @@
 # Pair Programming Punchline
 
+[![make.fun · the-joke-the-reviewer-laughs-at-20261121-0329](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329)
+[![rank](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/Rizal556z/the-joke-the-reviewer-laughs-at-20261121-0329/rank.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329/leaderboard)
+[![reward](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/Rizal556z/the-joke-the-reviewer-laughs-at-20261121-0329/reward.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329)
+
 A one-line joke about working beside AI coding agents, for the make.fun
-bounty "The joke the reviewer laughs at".
+bounty [“The joke the reviewer laughs at”](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329).
 
 ## Run
 
